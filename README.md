@@ -1,2 +1,3 @@
 # 2020Netease
-2020Netease game repository
+2020网易游戏创作比赛用
+
